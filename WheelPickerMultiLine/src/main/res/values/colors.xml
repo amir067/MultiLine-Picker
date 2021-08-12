@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="picker_item_normal">#787878</color>
+    <color name="picker_item_selected">#151515</color>
+    <color name="transparent">#0042A5F5</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="grey">#787878</color>
+    <color name="btn_confirm_background">#4CAF50</color>
+    <color name="btn_cancel_background">#4CAF50</color>
+    <color name="btn_confirm_text">#FFFFFFFF</color>
+    <color name="btn_cancel_text">#0E0E0E</color>
+
+</resources>
